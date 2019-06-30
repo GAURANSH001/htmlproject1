@@ -1,5 +1,4 @@
-.style1{
-    font-family: cursive;
-    font-size: 70px;
-    text-align: right;
+.animate{
+  animation-name: "lightSpeedIn";
+  animation-duration: 9s;
 }
