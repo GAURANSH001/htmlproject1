@@ -2,3 +2,6 @@
   animation-name: "lightSpeedIn";
   animation-duration: 9s;
 }
+.rep{
+  background-repeat: no-repeat;
+}
